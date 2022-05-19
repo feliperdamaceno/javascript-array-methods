@@ -4,7 +4,7 @@ This project was made in order to recreate the most common array methods used in
 
 I've created my own implementation of this methods to test my knowledge.
 
-Whitch includes:
+Which includes:
 
 - foreach()
 - map()
