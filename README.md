@@ -1,4 +1,4 @@
-## JavaScript Array Methods
+## JavaScript: Array Methods
 
 This project was made in order to recreate the most common array methods used in JavaScript.
 
